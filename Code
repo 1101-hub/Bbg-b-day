@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To BBG, With Love</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Welcome Section -->
+    <header>
+        <h1>Welcome to your Magical World, BBG</h1>
+        <p>A corner of the universe just for you, filled with love, beauty, and the stars above!</p>
+    </header>
+
+    <!-- Letter Section -->
+    <section class="letter">
+        <h2>Your Special Letter</h2>
+        <p>Dear BBG,</p>
+        <p>You are the light that makes the world a better place. The stars shine brighter because of you, and I hope this little piece of the universe brings a smile to your face whenever you need it. Remember, you are loved, cherished, and always in my heart!</p>
+        <p>Forever yours,</p>
+        <p>Your Friend</p>
+    </section>
+
+    <!-- Flower Garden Section -->
+    <section class="flower-garden">
+        <h2>Your Flower Garden</h2>
+        <div class="flowers">
+            <div class="flower happy" onclick="alert('You bring sunshine to the world, BBG! 🌻')">
+                <p>🌻</p><p>Happy</p>
+            </div>
+            <div class="flower sad" onclick="alert('It's okay to feel down sometimes, BBG. You’ll rise like the lotus 🌸')">
+                <p>🌸</p><p>Sad</p>
+            </div>
+            <div class="flower encouraged" onclick="alert('You’re strong and brave, BBG! 💪')">
+                <p>💪</p><p>Encouraged</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Star Map Section -->
+    <section class="star-map">
+        <h2>Your Star Map</h2>
+        <p>Here’s the sky on the day you were born, BBG!</p>
+        <img src="your_star_map_placeholder.jpg" alt="Star Map of BBG's Birthdate">
+        <p>Feel free to look at the stars anytime you want to feel connected with the universe.</p>
+    </section>
+
+    <footer>
+        <p>Designed with love, just for you!</p>
+    </footer>
+
+</body>
+</html>
